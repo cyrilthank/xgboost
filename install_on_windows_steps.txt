@@ -1,0 +1,7 @@
+
+1. download 
+  xgboost-0.71-cp37-cp37m-win32.whl
+from https://www.lfd.uci.edu/~gohlke/pythonlibs/
+
+2.
+pip3 install xgboost-0.71-cp37-cp37m-win32.whl
